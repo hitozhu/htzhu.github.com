@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Htzhu&#39;s blog</title>
+    <link>https://htzhu.github.io/</link>
+    <description>Recent content on Htzhu&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2019 11:30:51 +0800</lastBuildDate>
+    
+	<atom:link href="https://htzhu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://htzhu.github.io/post/hello-hugo/</link>
+      <pubDate>Sat, 01 Jun 2019 11:30:51 +0800</pubDate>
+      
+      <guid>https://htzhu.github.io/post/hello-hugo/</guid>
+      <description> 1、Hugo Install brew install hugo # check it hugo version  2、Create a Blog hugo new site [path]  3、Create a article # cd [path],create a article hugo new post/hello-hugo.md  4、Set Theme Reference Hugo Website , choose a theme.
+# cd [path],and clone it git clone https://github.com......  Set up config.toml file, for example:
+baseURL = &amp;quot;http://example.org/&amp;quot; languageCode = &amp;quot;en-us&amp;quot; title = &amp;quot;Htzhu&#39;s blog&amp;quot; # your theme&#39;s name theme = &amp;quot;m10c&amp;quot;  5、Start it hugo server -D  </description>
+    </item>
+    
+  </channel>
+</rss>
