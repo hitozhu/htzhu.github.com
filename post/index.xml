@@ -21,7 +21,7 @@
  创建命令  // 指定项目名称
 vue create vue-template-project
   Step 1   Step 2   通过空格键选择需要的配置
-  Step 3   这里有三步选择
+  Step 3   这里有七步选择
 一、路由是否使用 history 模式，选择 y
 二、css 的预处理器，选择 Less
 三、格式配置，选择 ESLint + Prettier
